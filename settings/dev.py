@@ -17,5 +17,5 @@ STRIPE_SECRET = os.getenv('STRIPE_SECRET', '<your STRIPE_SECRET key>')
 
 # Paypal environment variables
 SITE_URL = 'http://127.0.0.1:8000'
-PAYPAL_NOTIFY_URL = '<your ngrok URL>'
-PAYPAL_RECEIVER_EMAIL = '<your Paypal merchant email>'
+PAYPAL_NOTIFY_URL = 'https://we-are-social-heroku-app.herokuapp.com'
+PAYPAL_RECEIVER_EMAIL = 'alex_boys30@yahoo.com'
