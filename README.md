@@ -20,7 +20,7 @@ __The project__ was made from scratch following the guidance of the course mater
 
 
 
-** The website has the following pages**:
+__The website has the following pages__:
   - Homepage
   - Gallery
   - Shop
