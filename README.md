@@ -8,7 +8,7 @@ This is Code Institute Stream Three Project as part of the Full Stack Developmen
 create an account,login,logout ,There is functionality to allow users to reset
 their password and update profile if needed,the application has contact form where users can send e-mails
 as well has a page where users can buy a photo session
-**The project** was made from scratch following the guidance of the course material.
+__The project__ was made from scratch following the guidance of the course material.
 ### Functionality
 ** Django project has the following apps**
   - photo_website
